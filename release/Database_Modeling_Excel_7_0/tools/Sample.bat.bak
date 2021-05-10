@@ -1,0 +1,2 @@
+DBME_CopyToFile  -f "D:\data\GIS\SelectData\apt-PostgreSQL.xlsm" -m "CopyAllCreateTableIfNotExistsSQL" -o "CreateTables.sql"
+pause;
